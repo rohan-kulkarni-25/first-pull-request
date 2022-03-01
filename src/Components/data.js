@@ -5,6 +5,13 @@ let data = [
     github: "https://github.com/rohan-kulkarni-25",
   },
 ];
+let data = [
+  {
+    name: "deena",
+    linkedin: https://www.linkedin.com/in/deena-m-2338951a7",
+    github:https://github.com/Deenadinn ",
+  },
+];
 
 export default data;
 //   {
