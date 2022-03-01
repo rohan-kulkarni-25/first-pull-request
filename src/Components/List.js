@@ -7,8 +7,8 @@ export default function List() {
 
   return (
     <div className="flex flex-wrap justify-evenly w-full p-24 md:p-12">
-      {data.map((box) => (
-        <Box name={box.name} github={box.github} linkedin={box.linkedin}></Box>
+      {data.map((box, idx) => (
+        <Box name={box.name} github={box.github} linkedin={box.linkedin} key={idx}></Box>
       ))}
     </div>
   );
