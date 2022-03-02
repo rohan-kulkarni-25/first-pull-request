@@ -6,7 +6,7 @@ let data = [
   },
   {
          name: "Deena",
-         linkedin: " https://www.linkedin.com/in/deena-m-2338951a7"
+         linkedin: "https://www.linkedin.com/in/deena-m-2338951a7",
         github: "https://github.com/Deenadinn",
       },
     
