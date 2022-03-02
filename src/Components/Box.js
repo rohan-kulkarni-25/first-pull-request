@@ -1,10 +1,13 @@
 import React from "react";
 const { BsLinkedin, BsGithub } = require("react-icons/bs");
 export default function Box({ name, linkedin, github }) {
+
+  const profile_image =  github.split("/").pop() + ".png";
+
   return (
     <div className="m-4 shadow-sm shadow-black bg-white rounded-2xl p-4 flex flex-col items-center gap-4">
       <img
-        src="https://github.com/rohan-kulkarni-25.png"
+        src={`https://github.com/${profile_image}`}
         className="h-24 rounded-full"
         alt=""
       />

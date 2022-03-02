@@ -9,7 +9,11 @@ let data = [
          linkedin: "https://www.linkedin.com/in/deena-m-2338951a7",
         github: "https://github.com/Deenadinn",
       },
-    
+  {
+    name: "Tejas.C.S",
+    linkedin: "https://www.linkedin.com/in/tejas-cs-3a7218232/",
+    github: "https://github.com/Tejas-117",
+  },
 ];
 
   
