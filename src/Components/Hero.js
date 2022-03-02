@@ -11,12 +11,12 @@ export default function Hero() {
       <p className="text-3xl mt-8 md:text-xl">
         You don't know how to contribute ?
       </p>
-      <button
-        type="submit"
+      <a
+        href="https://youtu.be/lUFAUWCk_4k"
         className="bg-white p-3 rounded-2xl m-4 text-xl font-semibold tracking-widest hover:bg-black hover:text-white hover:duration-500 md:text-base "
       >
         LET'S GET YOUR FIRST PULL REQUEST MERGED
-      </button>
+      </a>
     </div>
   );
 }
