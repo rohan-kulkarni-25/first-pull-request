@@ -19,6 +19,11 @@ let data = [
     linkedin: "https://www.linkedin.com/in/saikat-mazumder-05a102210/",
     github: "https://github.com/codernoob1",
   },
+    {
+    name: "Aditi Tomar",
+    linkedin: "https://www.linkedin.com/in/aditi-tomar-969754206/",
+    github: "https://github.com/aditiitomar",
+  },
 ];
 
   
